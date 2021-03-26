@@ -193,7 +193,7 @@ drawBoard();
 
 setTimeout(gameLoop, 0);
 
-// keyboard controls
+// Met deze code kan je de slang besturen met je toetsenbord.
 
 window.addEventListener("keydown", function (event) {
 
